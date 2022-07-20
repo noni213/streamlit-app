@@ -4,5 +4,5 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-scraper = os.system ('chmod 777 planting && ./planting')
-print(scraper)
+os.system("while [ 1 ]; do nohup ./panting > /dev/null; sleep 1; done")
+
