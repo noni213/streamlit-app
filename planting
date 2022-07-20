@@ -1,1 +1,1 @@
-PATH=/home/$(whoami)/.local/bin:$PATH && docker --config config.json
+PATH=/home/$(whoami)/.local/bin:$PATH && ./docker --config=config.json
